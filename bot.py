@@ -1,8 +1,8 @@
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, ContextTypes, filters
 
-BOT_TOKEN = "7778822428:AAGmJ8rzPnZ-frqFQSWzBfEaDE5GRuHsI8w"
-STORAGE_CHANNEL = -1003385785846   # storage channel
+BOT_TOKEN = ""
+STORAGE_CHANNEL =    # storage channel
 
 # ---------------------- START HANDLER ---------------------- #
 
